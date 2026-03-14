@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "blazesmp",
+    "password": "botsinghbot",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "Schoolfunsmp.aternos.me",
+    "port": 60674,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "wellcome to school smp",
+        "hi wellcome to school smp",
+        "wellcome to school smp"
       ]
     },
     "chat-log": true,
